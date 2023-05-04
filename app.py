@@ -15,5 +15,5 @@ db = setup_db(APP1)
 
 @APP1.route('/')
 def index():
-  return { 'HelloWorld' : 'Welcome to FSND capstone project...' }
+  return { 'HelloWorld!!!' }
 
